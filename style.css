@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+}
+
+body{
+    font-family: "Open Sans", Arial, sans-serif;
+    background-color: #f7f7f7;
+}
+#navbar a{
+    text-decoration: none;
+    color: black;
+}
+
+header h1{
+    text-align: center;
+}
+#navbar li{
+    font-size: 22px;
+    padding: 5px;
+    margin-top: 15px;
+    border-bottom: 1px solid black;
+}
+#navbar ul{
+    list-style-type: none;
+}
+
+header{
+    position: fixed;
+    
+}
+
+#main-doc{
+    position: absolute;
+    margin-left: 400px;
+}
+
+h1{
+    font-weight: normal;
+}
+
+.main-article{
+    padding: 20px;
+}
